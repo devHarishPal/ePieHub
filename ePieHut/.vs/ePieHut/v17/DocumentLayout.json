@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ePieHut\\ePieHut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2E6AF-7063-4548-8C24-3C5612CABF0D}|ePieHut.Repositories\\ePieHut.Repositories.csproj|d:\\epiehut\\epiehut\\epiehut.repositories\\epiehut.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0F2E6AF-7063-4548-8C24-3C5612CABF0D}|ePieHut.Repositories\\ePieHut.Repositories.csproj|solutionrelative:epiehut.repositories\\epiehut.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehut\\epiehut\\epiehut.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|solutionrelative:epiehut.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ePieHut.Repositories",
+              "DocumentMoniker": "D:\\ePieHut\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
+              "RelativeDocumentMoniker": "ePieHut.Repositories\\ePieHut.Repositories.csproj",
+              "ToolTip": "D:\\ePieHut\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
+              "RelativeToolTip": "ePieHut.Repositories\\ePieHut.Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T10:38:50.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ePieHut\\ePieHut\\ePieHut.WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ePieHut.WebApplication\\appsettings.json",
+              "ToolTip": "D:\\ePieHut\\ePieHut\\ePieHut.WebApplication\\appsettings.json",
+              "RelativeToolTip": "ePieHut.WebApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T12:03:49.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
