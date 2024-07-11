@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ePieHut\\ePieHut.Models\\ePieHut.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ePieHut\\ePieHut.Repositories\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs",
+              "RelativeDocumentMoniker": "ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs",
+              "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs",
+              "RelativeToolTip": "ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:46:12.815Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "ePieHut\\ePieHut.Models\\ePieHut.Models.csproj",
               "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHut.Models.csproj",
               "RelativeToolTip": "ePieHut\\ePieHut.Models\\ePieHut.Models.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-11T18:33:35.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "ePieHut\\ePieHut.Repositories\\Interfaces\\IRepository.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "ePieHut\\ePieHut.Repositories\\Interfaces\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T12:49:12.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T12:49:12.91Z"
             }
           ]
         }

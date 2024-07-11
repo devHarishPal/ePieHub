@@ -47,15 +47,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ePieHut.Repositories",
+              "Title": "ePieHut.Repositories.csproj",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
               "RelativeDocumentMoniker": "ePieHut.Repositories\\ePieHut.Repositories.csproj",
               "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
               "RelativeToolTip": "ePieHut.Repositories\\ePieHut.Repositories.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-11T18:33:52.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T18:33:52.19Z"
             },
             {
               "$type": "Document",
@@ -113,7 +112,7 @@
               "RelativeDocumentMoniker": "ePieHut.Repositories\\Implentations\\UserRepo.cs",
               "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs",
               "RelativeToolTip": "ePieHut.Repositories\\Implentations\\UserRepo.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T16:02:25.276Z",
               "EditorCaption": ""
@@ -140,8 +139,7 @@
               "RelativeToolTip": "ePieHut.Repositories\\Implentations\\Repository.cs",
               "ViewState": "AQIAAAcAAAAAGDMzMzPjvxQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:04:14.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T13:04:14.135Z"
             }
           ]
         }
