@@ -1012,6 +1012,16 @@
         "runtime": {
           "bin/placeholder/ePieHut.Entities.dll": {}
         }
+      },
+      "ePieHut.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ePieHut.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ePieHut.Models.dll": {}
+        }
       }
     }
   },
@@ -2802,13 +2812,19 @@
       "type": "project",
       "path": "../ePieHut.Entities/ePieHut.Entities.csproj",
       "msbuildProject": "../ePieHut.Entities/ePieHut.Entities.csproj"
+    },
+    "ePieHut.Models/1.0.0": {
+      "type": "project",
+      "path": "../ePieHut.Models/ePieHut.Models.csproj",
+      "msbuildProject": "../ePieHut.Models/ePieHut.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BCrypt.Net-Next >= 4.0.3",
       "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj",
-      "ePieHut.Entities >= 1.0.0"
+      "ePieHut.Entities >= 1.0.0",
+      "ePieHut.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2841,6 +2857,9 @@
           "projectReferences": {
             "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj": {
               "projectPath": "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj"
+            },
+            "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHut.Models.csproj": {
+              "projectPath": "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHut.Models.csproj"
             },
             "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj": {
               "projectPath": "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj"
