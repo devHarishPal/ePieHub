@@ -46,6 +46,19 @@
           }
         }
       },
+      "BCrypt.Net-Next/4.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/BCrypt.Net-Next.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/BCrypt.Net-Next.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -1043,6 +1056,37 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "BCrypt.Net-Next/4.0.3": {
+      "sha512": "W+U9WvmZQgi5cX6FS5GDtDoPzUCV4LkBLkywq/kRZhuDwcbavOzcDAr3LXJFqHUi952Yj3LEYoWW0jbEUQChsA==",
+      "type": "package",
+      "path": "bcrypt.net-next/4.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bcrypt.net-next.4.0.3.nupkg.sha512",
+        "bcrypt.net-next.nuspec",
+        "ico.png",
+        "lib/net20/BCrypt.Net-Next.dll",
+        "lib/net20/BCrypt.Net-Next.xml",
+        "lib/net35/BCrypt.Net-Next.dll",
+        "lib/net35/BCrypt.Net-Next.xml",
+        "lib/net462/BCrypt.Net-Next.dll",
+        "lib/net462/BCrypt.Net-Next.xml",
+        "lib/net472/BCrypt.Net-Next.dll",
+        "lib/net472/BCrypt.Net-Next.xml",
+        "lib/net48/BCrypt.Net-Next.dll",
+        "lib/net48/BCrypt.Net-Next.xml",
+        "lib/net5.0/BCrypt.Net-Next.dll",
+        "lib/net5.0/BCrypt.Net-Next.xml",
+        "lib/net6.0/BCrypt.Net-Next.dll",
+        "lib/net6.0/BCrypt.Net-Next.xml",
+        "lib/netstandard2.0/BCrypt.Net-Next.dll",
+        "lib/netstandard2.0/BCrypt.Net-Next.xml",
+        "lib/netstandard2.1/BCrypt.Net-Next.dll",
+        "lib/netstandard2.1/BCrypt.Net-Next.xml",
+        "readme.md"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -2762,6 +2806,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BCrypt.Net-Next >= 4.0.3",
+      "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj",
       "ePieHut.Entities >= 1.0.0"
     ]
   },
@@ -2771,11 +2817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ePieHut\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
+      "projectUniqueName": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
       "projectName": "ePieHut.Repositories",
-      "projectPath": "D:\\ePieHut\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
+      "projectPath": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\ePieHut.Repositories.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\ePieHut\\ePieHut\\ePieHut.Repositories\\obj\\",
+      "outputPath": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2793,8 +2839,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj": {
-              "projectPath": "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj"
+            "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj": {
+              "projectPath": "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj"
+            },
+            "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj": {
+              "projectPath": "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj"
             }
           }
         }
@@ -2813,6 +2862,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "BCrypt.Net-Next": {
+            "target": "Package",
+            "version": "[4.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -2832,5 +2887,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

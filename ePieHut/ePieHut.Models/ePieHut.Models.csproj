@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ePieHut.Entities\ePieHut.Entities.csproj" />
+    <ProjectReference Include="..\ePieHut.Repositories\ePieHut.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,13 @@
+D:\ePieHub\ePieHut\ePieHut.Entities\bin\Debug\net8.0\ePieHut.Entities.deps.json
+D:\ePieHub\ePieHut\ePieHut.Entities\bin\Debug\net8.0\ePieHut.Entities.dll
+D:\ePieHub\ePieHut\ePieHut.Entities\bin\Debug\net8.0\ePieHut.Entities.pdb
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.csproj.AssemblyReference.cache
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.AssemblyInfoInputs.cache
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.AssemblyInfo.cs
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.csproj.CoreCompileInputs.cache
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.sourcelink.json
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.dll
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\refint\ePieHut.Entities.dll
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ePieHut.Entities.pdb
+D:\ePieHub\ePieHut\ePieHut.Entities\obj\Debug\net8.0\ref\ePieHut.Entities.dll

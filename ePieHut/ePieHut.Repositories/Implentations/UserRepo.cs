@@ -1,13 +1,8 @@
 ﻿using ePieHut.Entities;
 using ePieHut.Entities.Entities;
-using ePieHut.Models;
 using ePieHut.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ePieHut.Repositories.Implentations
 {

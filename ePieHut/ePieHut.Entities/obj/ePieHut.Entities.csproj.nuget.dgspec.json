@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj": {}
+    "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj": {}
   },
   "projects": {
-    "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj": {
+    "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj",
+        "projectUniqueName": "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj",
         "projectName": "ePieHut.Entities",
-        "projectPath": "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj",
+        "projectPath": "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\obj\\",
+        "outputPath": "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

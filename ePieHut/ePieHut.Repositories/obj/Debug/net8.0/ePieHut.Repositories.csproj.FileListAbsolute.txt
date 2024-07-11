@@ -1,0 +1,16 @@
+D:\ePieHub\ePieHut\ePieHut.Repositories\bin\Debug\net8.0\ePieHut.Repositories.deps.json
+D:\ePieHub\ePieHut\ePieHut.Repositories\bin\Debug\net8.0\ePieHut.Repositories.dll
+D:\ePieHub\ePieHut\ePieHut.Repositories\bin\Debug\net8.0\ePieHut.Repositories.pdb
+D:\ePieHub\ePieHut\ePieHut.Repositories\bin\Debug\net8.0\ePieHut.Entities.dll
+D:\ePieHub\ePieHut\ePieHut.Repositories\bin\Debug\net8.0\ePieHut.Entities.pdb
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.csproj.AssemblyReference.cache
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.AssemblyInfoInputs.cache
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.AssemblyInfo.cs
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.csproj.CoreCompileInputs.cache
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.sourcelink.json
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut..14B09687.Up2Date
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.dll
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\refint\ePieHut.Repositories.dll
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.pdb
+D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ref\ePieHut.Repositories.dll

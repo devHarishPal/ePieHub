@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uT32Q8vlbxw=",
+  "dgSpecHash": "c62BIXrQc4k=",
   "success": true,
-  "projectFilePath": "D:\\ePieHut\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj",
+  "projectFilePath": "D:\\ePieHub\\ePieHut\\ePieHut.Entities\\ePieHut.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

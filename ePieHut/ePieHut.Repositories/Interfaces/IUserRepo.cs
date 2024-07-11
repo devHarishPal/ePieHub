@@ -1,5 +1,4 @@
 ﻿using ePieHut.Entities.Entities;
-using ePieHut.Models;
 namespace ePieHut.Repositories.Interfaces
 {
     public interface IUserRepo : IRepository<User>
