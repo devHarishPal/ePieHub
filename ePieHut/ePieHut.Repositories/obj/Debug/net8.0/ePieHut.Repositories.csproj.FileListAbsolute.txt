@@ -14,3 +14,5 @@ D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.dl
 D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\refint\ePieHut.Repositories.dll
 D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ePieHut.Repositories.pdb
 D:\ePieHub\ePieHut\ePieHut.Repositories\obj\Debug\net8.0\ref\ePieHut.Repositories.dll
+D:\ePieHub\ePieHut\ePieHut.Repositories\bin\Debug\net8.0\ePieHut.Models.dll
+D:\ePieHub\ePieHut\ePieHut.Repositories\bin\Debug\net8.0\ePieHut.Models.pdb

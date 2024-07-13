@@ -1,0 +1,12 @@
+D:\ePieHub\ePieHut\ePieHut.Models\bin\Debug\net8.0\ePieHut.Models.deps.json
+D:\ePieHub\ePieHut\ePieHut.Models\bin\Debug\net8.0\ePieHut.Models.dll
+D:\ePieHub\ePieHut\ePieHut.Models\bin\Debug\net8.0\ePieHut.Models.pdb
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ePieHut.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ePieHut.Models.AssemblyInfoInputs.cache
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ePieHut.Models.AssemblyInfo.cs
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ePieHut.Models.csproj.CoreCompileInputs.cache
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ePieHut.Models.sourcelink.json
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ePieHut.Models.dll
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\refint\ePieHut.Models.dll
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ePieHut.Models.pdb
+D:\ePieHub\ePieHut\ePieHut.Models\obj\Debug\net8.0\ref\ePieHut.Models.dll

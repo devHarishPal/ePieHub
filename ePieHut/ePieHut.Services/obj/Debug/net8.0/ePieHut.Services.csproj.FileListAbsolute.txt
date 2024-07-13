@@ -16,3 +16,5 @@ D:\ePieHub\ePieHut\ePieHut.Services\obj\Debug\net8.0\ePieHut.Services.dll
 D:\ePieHub\ePieHut\ePieHut.Services\obj\Debug\net8.0\refint\ePieHut.Services.dll
 D:\ePieHub\ePieHut\ePieHut.Services\obj\Debug\net8.0\ePieHut.Services.pdb
 D:\ePieHub\ePieHut\ePieHut.Services\obj\Debug\net8.0\ref\ePieHut.Services.dll
+D:\ePieHub\ePieHut\ePieHut.Services\bin\Debug\net8.0\ePieHut.Models.dll
+D:\ePieHub\ePieHut\ePieHut.Services\bin\Debug\net8.0\ePieHut.Models.pdb

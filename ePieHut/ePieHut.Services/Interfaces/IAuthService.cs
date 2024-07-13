@@ -2,7 +2,7 @@
 
 namespace ePieHut.Services.Interfaces
 {
-    public interface IAuthService
+    public interface IAuthService : IServices<User>
     {
 
         bool AddUser(User user, string role);

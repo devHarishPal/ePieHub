@@ -23,7 +23,7 @@ namespace ePieHut.Services.Implementations
 
         public UserModel ValidateUser(string EmailId, string Password)
         {
-            throw new NotImplementedException();
+            return userRepo.ValidateUser(EmailId, Password);
         }
     }
 }
