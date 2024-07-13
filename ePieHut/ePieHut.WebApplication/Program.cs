@@ -7,6 +7,7 @@ builder.Services.AddControllersWithViews();
 
 
 ConfigurationServices.RegisterServices(builder.Services, builder.Configuration);
+builder.Services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
 
 var app = builder.Build();
 
