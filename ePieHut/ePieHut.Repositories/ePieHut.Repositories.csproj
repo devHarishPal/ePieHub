@@ -13,7 +13,6 @@
   <ItemGroup>
     <ProjectReference Include="..\ePieHut.Entities\ePieHut.Entities.csproj" />
     <ProjectReference Include="..\ePieHut.Models\ePieHut.Models.csproj" />
-	  <ProjectReference Include="..\ePieHut.Models\ePieHutModels.csproj" />
   </ItemGroup>
 
 </Project>

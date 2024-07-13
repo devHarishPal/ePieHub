@@ -1028,7 +1028,6 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BCrypt.Net-Next": "4.0.3",
-          "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj": "1.0.0",
           "ePieHut.Entities": "1.0.0",
           "ePieHut.Models": "1.0.0"
         },
@@ -2912,16 +2911,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\ePieHub\\ePieHut\\ePieHut.Models\\ePieHutModels.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }
