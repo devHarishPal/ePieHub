@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\ePieHub\\ePieHut\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehub\\epiehut\\epiehut.webapplication\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|solutionrelative:epiehut.webapplication\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehub\\epiehut\\epiehut.webapplication\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|solutionrelative:epiehut.webapplication\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehub\\epiehut\\epiehut.webapplication\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|solutionrelative:epiehut.webapplication\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehub\\epiehut\\epiehut.webapplication\\areas\\user\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|solutionrelative:epiehut.webapplication\\areas\\user\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehub\\epiehut\\epiehut.webapplication\\epiehut.webapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|solutionrelative:epiehut.webapplication\\epiehut.webapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehub\\epiehut\\epiehut.webapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|solutionrelative:epiehut.webapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49DF6523-1406-4B8C-96F1-909C909C907A}|ePieHut.WebApplication\\ePieHut.WebApplication.csproj|d:\\epiehub\\epiehut\\epiehut.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -86,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +102,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ePieHut.WebApplication\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ePieHut.WebApplication\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T20:27:43.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ePieHut.WebApplication\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ePieHut.WebApplication\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:26:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ePieHut.WebApplication\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ePieHut.WebApplication\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:26:29.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\User\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Areas\\User\\Controllers\\HomeController.cs",
@@ -107,25 +154,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ePieHut.WebApplication\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ePieHut.WebApplication\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-13T19:43:24.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ePieHut.WebApplication",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\ePieHut.WebApplication.csproj",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\ePieHut.WebApplication.csproj",
-              "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\ePieHut.WebApplication.csproj",
-              "RelativeToolTip": "ePieHut.WebApplication\\ePieHut.WebApplication.csproj",
+              "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\ePieHut.WebApplication.csproj*",
+              "RelativeToolTip": "ePieHut.WebApplication\\ePieHut.WebApplication.csproj*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-13T19:42:06.93Z",
@@ -133,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Views\\Account\\Login.cshtml",
@@ -146,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Models\\LoginViewModel.cs",
@@ -159,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Program.cs",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Program.cs",
@@ -172,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
@@ -185,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\User\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Areas\\User\\Views\\Home\\Index.cshtml",
@@ -198,20 +232,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\User\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Areas\\User\\Controllers\\BaseController.cs",
               "ToolTip": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Areas\\User\\Controllers\\BaseController.cs",
               "RelativeToolTip": "ePieHut.WebApplication\\Areas\\User\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T19:52:16.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Views\\Shared\\_Layout.cshtml",
@@ -224,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\Controllers\\AccountController.cs",
@@ -237,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ConfigurationServices.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Services\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "ePieHut.Services\\ConfigurationServices.cs",
@@ -250,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.WebApplication\\appsettings.json",
               "RelativeDocumentMoniker": "ePieHut.WebApplication\\appsettings.json",
@@ -263,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "ePieHut.Services\\Implementations\\AuthService.cs",
@@ -276,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "ePieHut.Repositories\\Interfaces\\IRepository.cs",
@@ -289,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "ePieHut.Services\\Interfaces\\IAuthService.cs",
@@ -302,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Implentations\\UserRepo.cs",
               "RelativeDocumentMoniker": "ePieHut.Repositories\\Implentations\\UserRepo.cs",
@@ -314,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Interfaces\\IUserRepo.cs",
               "RelativeDocumentMoniker": "ePieHut.Repositories\\Interfaces\\IUserRepo.cs",
@@ -327,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\ePieHub\\ePieHut\\ePieHut.Repositories\\Implentations\\Repository.cs",
               "RelativeDocumentMoniker": "ePieHut.Repositories\\Implentations\\Repository.cs",
