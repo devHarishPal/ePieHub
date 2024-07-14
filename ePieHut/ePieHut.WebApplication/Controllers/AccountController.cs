@@ -31,9 +31,12 @@ namespace ePieHut.WebApplication.Controllers
 
                 if (user != null)
                 {
+                    if (user.Roles.Contains("Admin"))
+                    {
+                        return RedirectToAction("Index", "Home", new {area = "Admin"});
+                    }
 
-
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index", "Home", new { area = "Admin" });
 
                 }
 
