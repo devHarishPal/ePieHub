@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ePieHut.WebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6602a40f55d6f01621409e30ae5447410393bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b7084999072b0c56ca542d2d2fda80bad9bdec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ePieHut.WebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ePieHut.WebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

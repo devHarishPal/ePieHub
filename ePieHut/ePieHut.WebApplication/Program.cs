@@ -1,4 +1,5 @@
 using ePieHut.Services;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,22 @@ builder.Services.AddControllersWithViews();
 
 ConfigurationServices.RegisterServices(builder.Services, builder.Configuration);
 builder.Services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options=>
+    {
+        options.Cookie.Name = "ePieHutApp";
+        options.LoginPath = "/Account/Login";
+        options.AccessDeniedPath= "/Account/UnAutherize";
+    }
+
+
+
+
+
+);
+
+
 
 var app = builder.Build();
 

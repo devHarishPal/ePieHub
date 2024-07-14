@@ -52,40 +52,33 @@ namespace ePieHut.Repositories.Implentations
 
         }
 
-        public UserModel ValidateUser(string EmailId, string Password)
+
+
+
+
+        public UserModel ValidateUser(string Email, string Password)
         {
-            User user = context.Users.Include(role => role.Roles).Where(user=>user.Email.Equals(EmailId)).FirstOrDefault();
+            User user = context.Users.Include(u => u.Roles).Where(u => u.Email == Email).FirstOrDefault();
 
             if (user != null)
             {
-                bool IsValid = BCrypt.Net.BCrypt.Verify(Password, user.Password);
+             
 
-                if (IsValid)
+                bool isValid = BCrypt.Net.BCrypt.Verify(Password, user.Password);
+                if (isValid)
                 {
-                    UserModel User = new UserModel()
+                    UserModel userModel = new UserModel
                     {
                         Id = user.Id,
                         Name = user.Name,
-                        PhoneNumber = user.PhoneNumber,
                         Email = user.Email,
-                        Roles = user.Roles.Select(Role => Role.Name).ToArray()
+                        PhoneNumber = user.PhoneNumber,
+                        Roles = user.Roles.Select(r => r.Name).ToArray()
                     };
-
-
-                    return User;
-
-
-
-
+                    return userModel;
                 }
-
-
             }
-
             return null;
-
-
-
         }
     }
 }
